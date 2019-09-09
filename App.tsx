@@ -31,20 +31,6 @@ const playlist = [
     album: "-",
     source: require("../AudioPlayer/assets/music/Scott_Holmes_-_Driven_To_Success.mp3")
   }
-  // {
-  //   title: "Hunted By A Freak",
-  //   artist: "Mogwai",
-  //   album: "Mogwai Live at Ancienne Belgique on 2017-10-20",
-  //   uri:
-  //     "https://ia601509.us.archive.org/17/items/mogwai2017-10-20.brussels.fm/Mogwai2017-10-20Brussels-07.mp3"
-  // },
-  // {
-  //   title: "Nervous Tic Motion of the Head to the Left",
-  //   artist: "Andrew Bird",
-  //   album: "Andrew Bird Live at Rio Theater on 2011-01-28",
-  //   uri:
-  //     "https://ia800503.us.archive.org/8/items/andrewbird2011-01-28.early.dr7.flac16/andrewbird2011-01-28.early.t07.mp3"
-  // }
 ];
 
 export default function App() {
