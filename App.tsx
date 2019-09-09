@@ -1,13 +1,7 @@
 import React, { Component, useState, useEffect } from "react";
 import { Audio } from "expo-av";
 import { Feather } from "@expo/vector-icons";
-import {
-  StyleSheet,
-  Text,
-  TouchableOpacity,
-  View,
-  Dimensions
-} from "react-native";
+import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 
 const playlist = [
   {
